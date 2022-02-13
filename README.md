@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nick5779
 - 👀 I’m interested in Progamming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  > Instagram: @ajd2k17 | Facebook: Arthur Justino Dias | Twitter: @ArthurJustinoD1
 
