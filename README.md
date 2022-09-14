@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nick5779
 - 👀 I’m interested in Progamming
-- 🌱 I’m currently learning PHp, JavaScript and C
+- 🌱 I’m currently learning PHP, JavaScript and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  > Instagram: @ajd2k17 | Facebook: Arthur Justino | Twitter: @ArthurJustinoD1
 
