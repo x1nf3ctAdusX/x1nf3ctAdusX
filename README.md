@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nick5779
 - 👀 I’m interested in Progamming
-- 🌱 I’m currently learning HTML5, CSS, JavaScript and C
+- 🌱 I’m currently learning PHp, JavaScript and C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  > Instagram: @ajd2k17 | Facebook: Arthur Justino Dias | Twitter: @ArthurJustinoD1
+- 📫 How to reach me  > Instagram: @ajd2k17 | Facebook: Arthur Justino | Twitter: @ArthurJustinoD1
 
 <!---
 Nick5779/Nick5779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
