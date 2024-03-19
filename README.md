@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nick5779
 - 👀 I’m interested in Progamming, Games ...
-- 🌱 I’m currently learning HTML5, CSS,JSON and C
+- 🌱 I’m currently learning HTML5, CSS, JSON and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  > Instagram: @ajd2k17 | Facebook: Arthur Justino | X(Twitter): @ArthurJustinoD1
 
