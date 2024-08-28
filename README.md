@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nick5779
+- 👋 Hi, I’m @x1nf3ctAdusX
 - 👀 I’m interested in Techonolgy, Progamming, Games, Movies, TV Shows and Cartoons ...
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on the PS2, Wii and old video games development scenario
