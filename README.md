@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nick5779
-- 👀 I’m interested in Techonolgy, Progamming, Games, Movies, TV Shows and Catoons ...
+- 👀 I’m interested in Techonolgy, Progamming, Games, Movies, TV Shows and Cartoons ...
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on the PS2, Wii and old video games development scenario
 - 📫 How to reach me > Instagram: @ajd2k17 | Facebook: Arthur Justino | X(Twitter): @ArthurJustinoD1
